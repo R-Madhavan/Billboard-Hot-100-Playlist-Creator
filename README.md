@@ -59,8 +59,9 @@ Which year do you want to travel to? Type the date in this format YYYY-MM-DD: 20
 "Circles" added to playlist.
 "Adore You" doesn't exist in Spotify. Skipped.
 ...
-Playlist '2020-01-01 Billboard 100' created successfully!
+Playlist '2024-12-01 Billboard 100' created successfully!
 ```
+![image](https://github.com/user-attachments/assets/7e7231c9-7390-4e58-a5aa-4bcc6fdaaf4f)
 
 ---
 
