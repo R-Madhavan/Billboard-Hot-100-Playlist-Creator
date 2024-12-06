@@ -54,7 +54,7 @@ This Python script scrapes the Billboard Hot 100 songs for a user-specified date
 ## Example Output
 
 ```
-Which year do you want to travel to? Type the date in this format YYYY-MM-DD: 2020-01-01
+Which year do you want to travel to? Type the date in this format YYYY-MM-DD: 2024-12-01
 "Blinding Lights" added to playlist.
 "Circles" added to playlist.
 "Adore You" doesn't exist in Spotify. Skipped.
